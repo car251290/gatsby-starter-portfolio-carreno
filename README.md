@@ -28,12 +28,6 @@ Playful and Colorful One-Page portfolio featuring Parallax effects and animation
 
 Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=cara&utm_medium=Starter).
 
-## ✨ Features
-
-- Theme UI-based theming
-- react-spring Parallax Effect
-- CSS Animations on Shapes
-
 ## 🚀 Getting Started
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-portfolio-cara)
